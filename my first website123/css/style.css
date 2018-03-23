@@ -1,0 +1,87 @@
+/*main styles-------------*/
+body{
+   color: #0086b3;
+   margin: 0;
+
+background-color: #FFF7E8;
+background-size:cover;
+font-size: 20px;
+  }
+ 
+ .main-header{
+       font-size: 150px;
+       width: 100%;
+       height: auto;
+       margin-left: 20%; 
+      background-image: url("../images/wxy.jpg");
+	background-size: cover;
+	padding: 120px;
+        margin: 1px;
+border-style:solid;
+border-color: teal;
+border-width:15px;
+text-shadow: 25px 15px 10px black;
+ color: teal;
+ 
+    }
+      
+
+ul li{ 
+    color: green;
+  margin: 6px;
+  font-weight: none;
+  font-size: 20px;
+}
+ol li{
+    margin: 5px;
+    font-weight: none;
+    font-size: 20px;
+}
+/*Type selectors.....*/
+h1{
+     font-size: 160px;
+      color: white; 
+     
+
+    }
+h2{  
+   font-size: 54px;
+   color: teal;
+text-shadow: 10px 10px 15px black;
+  }
+h3{
+   font-size: 52px;
+   color: teal;
+  }
+ p{
+font-size: 20px;
+   }
+/*Type selectors*/
+.primary-content{
+           text-align: center; 
+
+     }
+/*pseudo classes......*/
+a:link {
+       color: blue;
+text-decoration:none;
+      }
+a:visited {
+      color: grey;
+   }
+a:hover {
+  color: purple;
+ }
+a:active {
+    color: green;
+  } 
+:focus  {
+   color: blue;
+  background-color:orange;
+ }
+
+
+
+ 
+
+

@@ -1,0 +1,20 @@
+h1{
+   color: #3d5c5c;
+   font-size: 100px;
+    background-color: teal;
+	background-size: cover;
+   border-radius: 10px 10px;
+   border-style: solid;
+   border-width: 12px; 
+}
+body{
+   background-color: grey;
+}
+.who,
+.cool{
+    display:inline-block;
+
+}
+.who{
+    float: right;
+}
